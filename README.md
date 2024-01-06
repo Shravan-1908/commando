@@ -1,5 +1,7 @@
 # Commando
 
+> This fork modifies the variadic argument separator (comma -> \u200B (zero width space)) to suit my particular requirements. 
+
 ![logo](/assets/logo.png)
 
 ![go-version](https://img.shields.io/github/go-mod/go-version/thatisuday/commando?label=Go%20Version) &nbsp;

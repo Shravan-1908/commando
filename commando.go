@@ -32,7 +32,7 @@ import (
 	"strings"
 	"text/template"
 
-	"github.com/thatisuday/clapper"
+	"github.com/Shravan-1908/clapper"
 )
 
 /********************************************/
@@ -48,6 +48,8 @@ const (
 	// string data type
 	String
 )
+
+var VariadicSeparator = clapper.VariadicSeparator
 
 // root-command name
 var rootCommandName = ""
