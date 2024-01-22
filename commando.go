@@ -32,7 +32,7 @@ import (
 	"strings"
 	"text/template"
 
-	"github.com/Shravan-1908/clapper"
+	"github.com/shravanasati/clapper"
 )
 
 /********************************************/

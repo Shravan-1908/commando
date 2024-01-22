@@ -1,7 +1,7 @@
 package main
 
 import (
-	"github.com/Shravan-1908/commando"
+	"github.com/shravanasati/commando"
 )
 
 func main() {

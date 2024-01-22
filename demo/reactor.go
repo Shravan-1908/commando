@@ -3,7 +3,7 @@ package main
 import (
 	"fmt"
 
-	"github.com/Shravan-1908/commando"
+	"github.com/shravanasati/commando"
 )
 
 func main() {
